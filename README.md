@@ -16,7 +16,12 @@ https://github.com/ajcr/100-pandas-puzzles/
 * ❌ Series and DatetimeIndex
 * ❌ Cleaning Data
 * ❌ Using MultiIndexes
-* ❌ Minesweeper
+* ✅  Minesweeper (51 - 55)
+    * ✅  51
+    * ✅  52
+    * ✅  53
+    * ✅  54
+    * ✅  55
 * ❌ Plotting (56 - 60)
     * ✅ 56
     * ✅ 57
