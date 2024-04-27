@@ -12,16 +12,11 @@ https://github.com/ajcr/100-pandas-puzzles/
     * ❌ 26
     * ❌ 27
     * ❌ 28
-* ❌ DataFrames: harder problems
-* ❌ Series and DatetimeIndex
-* ❌ Cleaning Data
-* ❌ Using MultiIndexes
+* ❌ DataFrames: harder problems (29-32)
+* ❌ Series and DatetimeIndex (33-37)
+* ❌ Cleaning Data (38-43)
+* ❌ Using MultiIndexes (44-50)
 * ✅  Minesweeper (51 - 55)
-    * ✅  51
-    * ✅  52
-    * ✅  53
-    * ✅  54
-    * ✅  55
 * ❌ Plotting (56 - 60)
     * ✅ 56
     * ✅ 57
